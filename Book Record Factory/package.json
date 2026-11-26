@@ -1,0 +1,10 @@
+{
+  "name": "book-record-factory",
+  "version": "1.0.0",
+  "description": "A small ES module book record factory.",
+  "main": "libraryApp.js",
+  "scripts": {
+    "start": "node libraryApp.js"
+  },
+  "type": "module"
+}
